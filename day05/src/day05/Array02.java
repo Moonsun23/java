@@ -72,6 +72,7 @@ public class Array02 { // Array 복습 필요!!!........ length...
 				System.out.println(num +" ");
 			}
 			// 
+			
 		}
 
 	}

@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class ChangeMoney {
 	public static void main(String[] args) {
 		//
-		// 50,000, 10,000, 5,000, 1,000, 500, 100, 50, 10
+		// 50000, 10000, 5000, 1000, 500, 100, 50, 10
 		System.out.println("얼마를 바꿀건가요? 금액을 입력하시고 엔터 치세요.");
 		Scanner scanner= new Scanner(System.in);	//스캐너의 타입은 스캐너다
 	// 스캐너 타입은 자바에 없기 때문에 어디서 가져와야함.(Ctrl + Space로 java.util에서 받아오기)
 		
 	    int money= scanner.nextInt();	// nextInt: 정수를 입력하겠다.
-	    
+	    // scanner에 정수를 입력하겠다.
 	    /// 위 결과: 콘솔 창에 얼마를 바꿀건가요? 가 나오고 아래 숫자를 쓰면 얼마로 바꿔지는지 나옴
 	    
 	    
