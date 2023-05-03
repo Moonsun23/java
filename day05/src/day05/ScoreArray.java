@@ -29,7 +29,8 @@ public class ScoreArray {	// Test02 숙제 풀이
 			//System.out.println(i); // 이대로 출력하는 경우 '리스트에 없는 과목'을 치면 계속 5가 나온다.
 			if(i==score.length) System.out.println("없는 과목입니다. 다시 입력해주세요.");
 		}
-		System.out.println("끝났음");				// 이 출력문을 써서 exit 입력하면 끝났음이 출력된다.
+		System.out.println("끝났음");	
+		// 이 출력문을 써서 exit 입력하면 끝났음이 출력된다.
 		
 	}
 	public void test() {

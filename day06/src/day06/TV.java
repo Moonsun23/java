@@ -1,6 +1,6 @@
 package day06;
 
-public class TV {
+public class TV {	// class 5
 	// company, year, size
 	// showInfo()라는 메소드를 통해 제품 정보를 출력
 	

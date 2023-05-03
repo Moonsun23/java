@@ -1,4 +1,4 @@
-package day06;
+package day06; // class 4
 
 public class Book { // 생성자함수(new를 통해 딱 한번만 만들어쓸 수 있게 호출이 되는 것) void(return type???)이 뜨지않음.
 	// 제목, 작자

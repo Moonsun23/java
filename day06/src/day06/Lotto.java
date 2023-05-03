@@ -1,6 +1,6 @@
 package day06;
 
-public class Lotto {
+public class Lotto {	// class 3
 	public Lotto() {
 		
 	}

@@ -1,6 +1,6 @@
 package day06;
 
-public class Circle { 		// 제네시스 설계도
+public class Circle { 		// 제네시스 설계도//// class 1
 		int radius;
 		String name;
 		
